@@ -14,3 +14,5 @@ Learning algorithm with online judges like LeetCode, Interview Cake, Euler Proje
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Bash](./LeetCode/195_tenth_line.sh)|Easy|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes)|[Python](./LeetCode/283_move_zeros.py)|Easy|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[Ruby](./LeetCode/331_verify_preorder_serialization_of_a_binary_tree.rb)|Medium|
+
+# mod 1
